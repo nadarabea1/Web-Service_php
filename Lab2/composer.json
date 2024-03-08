@@ -1,0 +1,8 @@
+{
+    "require": {
+        "illuminate/database":"^10.46"
+    },
+    "autoload": {
+        "files": ["config.php", "MySQLHandler.php"]
+    }
+}
